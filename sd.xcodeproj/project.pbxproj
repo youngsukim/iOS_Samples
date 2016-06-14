@@ -14,6 +14,8 @@
 		330055FE1D0FB75700D07ED6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 330055FC1D0FB75700D07ED6 /* LaunchScreen.storyboard */; };
 		330056091D0FB75700D07ED6 /* sdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330056081D0FB75700D07ED6 /* sdTests.swift */; };
 		330056141D0FB75700D07ED6 /* sdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330056131D0FB75700D07ED6 /* sdUITests.swift */; };
+		330056231D0FB77500D07ED6 /* porche_718_400.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 330056211D0FB77500D07ED6 /* porche_718_400.jpg */; };
+		330056241D0FB77500D07ED6 /* porche_718_200.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 330056221D0FB77500D07ED6 /* porche_718_200.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3300560F1D0FB75700D07ED6 /* sdUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sdUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330056131D0FB75700D07ED6 /* sdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sdUITests.swift; sourceTree = "<group>"; };
 		330056151D0FB75700D07ED6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		330056211D0FB77500D07ED6 /* porche_718_400.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porche_718_400.jpg; sourceTree = "<group>"; };
+		330056221D0FB77500D07ED6 /* porche_718_200.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porche_718_200.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				330055F71D0FB75700D07ED6 /* Main.storyboard */,
 				330055FA1D0FB75700D07ED6 /* Assets.xcassets */,
 				330055FC1D0FB75700D07ED6 /* LaunchScreen.storyboard */,
+				330056211D0FB77500D07ED6 /* porche_718_400.jpg */,
+				330056221D0FB77500D07ED6 /* porche_718_200.jpg */,
 				330055FF1D0FB75700D07ED6 /* Info.plist */,
 			);
 			path = sd;
@@ -229,7 +235,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				330056231D0FB77500D07ED6 /* porche_718_400.jpg in Resources */,
 				330055FE1D0FB75700D07ED6 /* LaunchScreen.storyboard in Resources */,
+				330056241D0FB77500D07ED6 /* porche_718_200.jpg in Resources */,
 				330055FB1D0FB75700D07ED6 /* Assets.xcassets in Resources */,
 				330055F91D0FB75700D07ED6 /* Main.storyboard in Resources */,
 			);
